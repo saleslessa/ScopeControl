@@ -1,0 +1,13 @@
+﻿<NsDepCopConfig ChildCanDependOnParentImplicitly="true" MaxIssueCountSeverity="1">
+  <Allowed From="*" To="System.*" />
+  <Allowed From="*" To="MoreLinq" />
+  <Allowed From="*" To="NsDepCop.Core.Util" />
+  
+  
+    
+  <Allowed From="Acpd.*" To="BuildingBlockA.Interfaces.Advanced.*" />
+  <Allowed From="Acpd.*" To="BuildingBlockB.Interfaces.Advanced.*" />
+
+  <Allowed From="BuildingBlockB" To="BuildingBlockA.Interfaces.*" />
+  <Disallowed From="BuildingBlockB" To="BuildingBlockA.Interfaces.Advanced.*" />
+</NsDepCopConfig>

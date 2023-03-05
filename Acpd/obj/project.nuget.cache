@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G/iu1VMUCYWn5vs8jTbxoi/Pwt8fbknIbzMM92lGAlNMSI7mD9DZVAkdCLCuKv1R4OrOipPKSjnVFmgijmnnJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lopes\\source\\repos\\ScopeControl\\Acpd\\Acpd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lopes\\.nuget\\packages\\nsdepcop\\2.2.0\\nsdepcop.2.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

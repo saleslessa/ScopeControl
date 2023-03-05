@@ -1,0 +1,3 @@
+<NsDepCopConfig InheritanceDepth="1">
+  <Allowed From="BuildingBlockA.*" To="BuildingBlockA.*" />
+</NsDepCopConfig>

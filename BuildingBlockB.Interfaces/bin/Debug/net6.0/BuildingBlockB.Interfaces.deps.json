@@ -1,0 +1,34 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BuildingBlockB.Interfaces/1.0.0": {
+        "dependencies": {
+          "NsDepCop": "2.2.0"
+        },
+        "runtime": {
+          "BuildingBlockB.Interfaces.dll": {}
+        }
+      },
+      "NsDepCop/2.2.0": {}
+    }
+  },
+  "libraries": {
+    "BuildingBlockB.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NsDepCop/2.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MuqCA589M141PhMLpubbhtCRS6vpxZxIQvnozbiTkPf+YHd0dZA7pB90VL8iUZm7w6wKla7rCaD1Y10Tz0xy2A==",
+      "path": "nsdepcop/2.2.0",
+      "hashPath": "nsdepcop.2.2.0.nupkg.sha512"
+    }
+  }
+}

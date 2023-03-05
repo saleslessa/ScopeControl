@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BuildingBlockB/1.0.0": {
+        "dependencies": {
+          "BuildingBlockA": "1.0.0",
+          "BuildingBlockA.Interfaces": "1.0.0",
+          "BuildingBlockB.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "BuildingBlockB.dll": {}
+        }
+      },
+      "BuildingBlockA/1.0.0": {
+        "dependencies": {
+          "BuildingBlockA.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "BuildingBlockA.dll": {}
+        }
+      },
+      "BuildingBlockA.Interfaces/1.0.0": {
+        "runtime": {
+          "BuildingBlockA.Interfaces.dll": {}
+        }
+      },
+      "BuildingBlockB.Interfaces/1.0.0": {
+        "runtime": {
+          "BuildingBlockB.Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BuildingBlockB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BuildingBlockA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BuildingBlockA.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BuildingBlockB.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

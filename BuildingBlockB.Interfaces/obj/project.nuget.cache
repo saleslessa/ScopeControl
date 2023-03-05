@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KHaZepgAXk6C2d6Ql4FMX2zAFdbBFaunSvpec9RsSG4I+vtoyoPd6+VNHtd2kjFPw3YGxlII0ClkJ0hAn6ZqSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lopes\\source\\repos\\ScopeControl\\BuildingBlockB.Interfaces\\BuildingBlockB.Interfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lopes\\.nuget\\packages\\nsdepcop\\2.2.0\\nsdepcop.2.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

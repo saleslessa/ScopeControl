@@ -1,0 +1,12 @@
+C:\Users\lopes\source\repos\ScopeControl\BuildingBlockB.Interfaces\bin\Debug\net6.0\BuildingBlockB.Interfaces.deps.json
+C:\Users\lopes\source\repos\ScopeControl\BuildingBlockB.Interfaces\bin\Debug\net6.0\BuildingBlockB.Interfaces.dll
+C:\Users\lopes\source\repos\ScopeControl\BuildingBlockB.Interfaces\bin\Debug\net6.0\BuildingBlockB.Interfaces.pdb
+C:\Users\lopes\source\repos\ScopeControl\BuildingBlockB.Interfaces\obj\Debug\net6.0\BuildingBlockB.Interfaces.csproj.AssemblyReference.cache
+C:\Users\lopes\source\repos\ScopeControl\BuildingBlockB.Interfaces\obj\Debug\net6.0\BuildingBlockB.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lopes\source\repos\ScopeControl\BuildingBlockB.Interfaces\obj\Debug\net6.0\BuildingBlockB.Interfaces.AssemblyInfoInputs.cache
+C:\Users\lopes\source\repos\ScopeControl\BuildingBlockB.Interfaces\obj\Debug\net6.0\BuildingBlockB.Interfaces.AssemblyInfo.cs
+C:\Users\lopes\source\repos\ScopeControl\BuildingBlockB.Interfaces\obj\Debug\net6.0\BuildingBlockB.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\lopes\source\repos\ScopeControl\BuildingBlockB.Interfaces\obj\Debug\net6.0\BuildingBlockB.Interfaces.dll
+C:\Users\lopes\source\repos\ScopeControl\BuildingBlockB.Interfaces\obj\Debug\net6.0\refint\BuildingBlockB.Interfaces.dll
+C:\Users\lopes\source\repos\ScopeControl\BuildingBlockB.Interfaces\obj\Debug\net6.0\BuildingBlockB.Interfaces.pdb
+C:\Users\lopes\source\repos\ScopeControl\BuildingBlockB.Interfaces\obj\Debug\net6.0\ref\BuildingBlockB.Interfaces.dll

@@ -1,0 +1,70 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Acpd/1.0.0": {
+        "dependencies": {
+          "BuildingBlockA": "1.0.0",
+          "BuildingBlockA.Interfaces": "1.0.0",
+          "BuildingBlockB.Interfaces": "1.0.0",
+          "NsDepCop": "2.2.0"
+        },
+        "runtime": {
+          "Acpd.dll": {}
+        }
+      },
+      "NsDepCop/2.2.0": {},
+      "BuildingBlockA/1.0.0": {
+        "dependencies": {
+          "BuildingBlockA.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "BuildingBlockA.dll": {}
+        }
+      },
+      "BuildingBlockA.Interfaces/1.0.0": {
+        "runtime": {
+          "BuildingBlockA.Interfaces.dll": {}
+        }
+      },
+      "BuildingBlockB.Interfaces/1.0.0": {
+        "runtime": {
+          "BuildingBlockB.Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Acpd/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NsDepCop/2.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MuqCA589M141PhMLpubbhtCRS6vpxZxIQvnozbiTkPf+YHd0dZA7pB90VL8iUZm7w6wKla7rCaD1Y10Tz0xy2A==",
+      "path": "nsdepcop/2.2.0",
+      "hashPath": "nsdepcop.2.2.0.nupkg.sha512"
+    },
+    "BuildingBlockA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BuildingBlockA.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BuildingBlockB.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
